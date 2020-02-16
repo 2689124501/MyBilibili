@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6888d034-dd03-4ed3-934a-94978f15c804" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Movie" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\钟煜新\PycharmProjects\Movie\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xb9pdyOOBcPIdZy5tnwPKnGG0L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flask-tutorial" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\templates\home" />
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\templates" />
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static\anim" />
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static\js\left_nav" />
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static\js" />
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static\css" />
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage (1)">
+    <configuration name="manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Movie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Movie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\钟煜新\PycharmProjects\Movie\manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Movie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Movie" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage (1)" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6888d034-dd03-4ed3-934a-94978f15c804" name="Default Changelist" comment="" />
+      <created>1581304111105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581304111105</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/钟煜新/PycharmProjects/Movie/app" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+        <option value="2" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="978" y="282" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581614041601">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="978" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1581614041601" />
+    <state x="484" y="65" key="#manage_(1)" timestamp="1581560822382">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="484" y="65" key="#manage_(1)/0.0.1536.834@0.0.1536.834" timestamp="1581560822382" />
+    <state x="813" y="193" key="DBNavigator.ResourceMonitorDialog" timestamp="1581514940532">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="813" y="193" key="DBNavigator.ResourceMonitorDialog/0.0.1536.834@0.0.1536.834" timestamp="1581514940532" />
+    <state x="706" y="202" key="FileChooserDialogImpl" timestamp="1581696807299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="706" y="202" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581696807299" />
+    <state width="645" height="122" key="GridCell.Tab.0.bottom" timestamp="1581863473576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="645" height="122" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581863473576" />
+    <state width="645" height="122" key="GridCell.Tab.0.center" timestamp="1581863473575">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="645" height="122" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581863473575" />
+    <state width="645" height="122" key="GridCell.Tab.0.left" timestamp="1581863473575">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="645" height="122" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581863473575" />
+    <state width="645" height="122" key="GridCell.Tab.0.right" timestamp="1581863473576">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="645" height="122" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581863473576" />
+    <state x="488" y="89" key="SettingsEditor" timestamp="1581696426342">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="488" y="89" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581696426342" />
+    <state x="604" y="331" key="VCS.ChangelistChooser" timestamp="1581867031205">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="604" y="331" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1581867031205" />
+    <state x="382" y="234" width="1015" height="480" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581867515728">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="382" y="234" width="1015" height="480" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1581867515728" />
+    <state x="400" y="178" width="1015" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581867312461">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="400" y="178" width="1015" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1581867312461" />
+    <state x="518" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1581860198000">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="518" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1581860198000" />
+  </component>
+</project>
