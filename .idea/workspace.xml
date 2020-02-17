@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6888d034-dd03-4ed3-934a-94978f15c804" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/admin/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/templates/home/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,17 +50,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\templates\home" />
-      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\templates" />
-      <recent name="C:\Users\钟煜新\PycharmProjects\Movie" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static\anim" />
       <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static\js\left_nav" />
       <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static\js" />
       <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static\css" />
       <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\templates\home" />
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie\app\templates" />
+      <recent name="C:\Users\钟煜新\PycharmProjects\Movie" />
     </key>
   </component>
   <component name="RunManager" selected="Python.manage (1)">
@@ -234,7 +237,9 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -263,22 +268,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="706" y="202" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581696807299" />
-    <state width="645" height="122" key="GridCell.Tab.0.bottom" timestamp="1581863473576">
+    <state width="1515" height="166" key="GridCell.Tab.0.bottom" timestamp="1581945984761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="645" height="122" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581863473576" />
-    <state width="645" height="122" key="GridCell.Tab.0.center" timestamp="1581863473575">
+    <state width="1515" height="166" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581945984761" />
+    <state width="1515" height="166" key="GridCell.Tab.0.center" timestamp="1581945984761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="645" height="122" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581863473575" />
-    <state width="645" height="122" key="GridCell.Tab.0.left" timestamp="1581863473575">
+    <state width="1515" height="166" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581945984761" />
+    <state width="1515" height="166" key="GridCell.Tab.0.left" timestamp="1581945984761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="645" height="122" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581863473575" />
-    <state width="645" height="122" key="GridCell.Tab.0.right" timestamp="1581863473576">
+    <state width="1515" height="166" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581945984761" />
+    <state width="1515" height="166" key="GridCell.Tab.0.right" timestamp="1581945984761">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="645" height="122" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581863473576" />
+    <state width="1515" height="166" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581945984761" />
     <state x="488" y="89" key="SettingsEditor" timestamp="1581696426342">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -287,14 +292,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="604" y="331" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1581867031205" />
-    <state x="382" y="234" width="1015" height="480" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581867515728">
+    <state x="437" y="142" width="1015" height="542" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581946235855">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="382" y="234" width="1015" height="480" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1581867515728" />
-    <state x="400" y="178" width="1015" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581867312461">
+    <state x="437" y="142" width="1015" height="542" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1581946235855" />
+    <state x="265" y="136" width="1015" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581945964244">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="400" y="178" width="1015" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1581867312461" />
+    <state x="265" y="136" width="1015" height="600" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1581945964244" />
     <state x="518" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1581860198000">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
